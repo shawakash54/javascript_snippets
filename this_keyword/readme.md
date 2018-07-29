@@ -25,5 +25,13 @@ call() and apply() is defined in function prototype and therefore available in e
 Check [call_apply.js](./examples/call_apply.js)
 
 ## bind()
-
 Check [bind.js](./examples/bind.js)
+
+## Own version of bind() method
+Check [bind_definition.js](./examples/bind_definition.js)
+
+## this with an arrow function
+Check [arrow_function.js](./examples/arrow_function.js)
+
+## this in class bodies
+Check [class_bodies.js](./examples/class_bodies.js)
