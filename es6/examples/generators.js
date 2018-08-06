@@ -1,0 +1,1 @@
+// Ones makes a generator by adding an asterisk just after the function keyword.
