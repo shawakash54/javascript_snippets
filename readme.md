@@ -6,3 +6,5 @@ Comment lines have been included for proper explanation.
 - For ES6 syntax, check es6 directory
 
 - For Async/ Await, check async_await directory
+
+- For Generators, check js_generators directory
