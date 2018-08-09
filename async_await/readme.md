@@ -13,3 +13,15 @@ Check [any_function_to_async_function.js](./examples/any_function_to_async_funct
 
 ## error handling in async functions
 Check [error_handling.js](./examples/error_handling.js) for a better understanding.
+
+## await multiple promises sequentially/ concurrently
+Check [multiple_promises_seq_conc.js](./examples/multiple_promises_seq_conc.js) for a better understanding.
+
+## promise.all
+Check [promise_all.js](./examples/promise_all.js) for a better understanding.
+
+## await operator with any thenable
+Check [thenable.js](./examples/thenable.js) for a better understanding.
+
+## iterate async for-await loop
+Check [for-await.js](./examples/for-await.js) for a better understanding.

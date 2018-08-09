@@ -43,6 +43,6 @@ class UserClient{
 
 (async ()=>{
     const client = new UserClient();
-    const user = client.fetchUser("Shaw");
+    const user = await client.fetchUser("Shaw");
     console.log(user.name)
 })()
